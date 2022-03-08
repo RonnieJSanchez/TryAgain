@@ -1,0 +1,20 @@
+div {
+  
+    background: url("https://houstoncertifiedmidwife.com/wp-content/uploads/2016/05/orange-profile-background-1.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align: center;
+  }
+  body {
+    font-family: 'Gill Sans', sans-serif;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.4;
+    margin: 50;
+  }
+  p {
+    font-size: 15pxS;
+    margin-top: 0;
+    margin-bottom: 15px;
+  }
+  
